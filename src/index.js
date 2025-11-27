@@ -3,6 +3,7 @@
 // npm init -> cria um package.json com perguntas para configurar o arquivo
 // node --watch index.js -> reinicia a aplicação sempre que houver mudanças no arquivo
 // npm i pretty-console-logs -D -> instala a dependência apenas para desenvolvimento
+// npm uninstall pretty-console-logs -> desinstala a dependência
 
 import chalk from "chalk";
 import logSymbols from "log-symbols";
